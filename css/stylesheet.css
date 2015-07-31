@@ -445,6 +445,7 @@ header .vertical-registration-form {
 /* NORMAL NAVIGATION WITH SOCIAL ICON AND LOGO ONLY */
 .non-sticky .navbar-nav.navbar-right:last-child {
   margin-right: 0;
+  margin-top: 7px;
 }
 
 .non-sticky .navbar-nav > li > a {
@@ -1464,4 +1465,7 @@ li > .dropdown-menu {
 }
 .landing-container {
 
+}
+#white-logo {
+  max-height: 80px;
 }
